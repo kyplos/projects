@@ -1,0 +1,15 @@
+C:\projects\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.exe
+C:\projects\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.deps.json
+C:\projects\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.runtimeconfig.json
+C:\projects\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.dll
+C:\projects\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.pdb
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.AssemblyInfoInputs.cache
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.AssemblyInfo.cs
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.csproj.CoreCompileInputs.cache
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.sourcelink.json
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.dll
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\refint\P3PrintingOutput.dll
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.pdb
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.genruntimeconfig.cache
+C:\projects\P3PrintingOutput\obj\Debug\net8.0\ref\P3PrintingOutput.dll
