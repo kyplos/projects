@@ -1,0 +1,15 @@
+C:\projects\P6DataTypes\bin\Debug\net8.0\P6DataTypes.exe
+C:\projects\P6DataTypes\bin\Debug\net8.0\P6DataTypes.deps.json
+C:\projects\P6DataTypes\bin\Debug\net8.0\P6DataTypes.runtimeconfig.json
+C:\projects\P6DataTypes\bin\Debug\net8.0\P6DataTypes.dll
+C:\projects\P6DataTypes\bin\Debug\net8.0\P6DataTypes.pdb
+C:\projects\P6DataTypes\obj\Debug\net8.0\P6DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\P6DataTypes\obj\Debug\net8.0\P6DataTypes.AssemblyInfoInputs.cache
+C:\projects\P6DataTypes\obj\Debug\net8.0\P6DataTypes.AssemblyInfo.cs
+C:\projects\P6DataTypes\obj\Debug\net8.0\P6DataTypes.csproj.CoreCompileInputs.cache
+C:\projects\P6DataTypes\obj\Debug\net8.0\P6DataTypes.sourcelink.json
+C:\projects\P6DataTypes\obj\Debug\net8.0\P6DataTypes.dll
+C:\projects\P6DataTypes\obj\Debug\net8.0\refint\P6DataTypes.dll
+C:\projects\P6DataTypes\obj\Debug\net8.0\P6DataTypes.pdb
+C:\projects\P6DataTypes\obj\Debug\net8.0\P6DataTypes.genruntimeconfig.cache
+C:\projects\P6DataTypes\obj\Debug\net8.0\ref\P6DataTypes.dll
