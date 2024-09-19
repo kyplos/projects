@@ -1,0 +1,15 @@
+C:\projects\p4Comments\bin\Debug\net8.0\p4Comments.exe
+C:\projects\p4Comments\bin\Debug\net8.0\p4Comments.deps.json
+C:\projects\p4Comments\bin\Debug\net8.0\p4Comments.runtimeconfig.json
+C:\projects\p4Comments\bin\Debug\net8.0\p4Comments.dll
+C:\projects\p4Comments\bin\Debug\net8.0\p4Comments.pdb
+C:\projects\p4Comments\obj\Debug\net8.0\p4Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\p4Comments\obj\Debug\net8.0\p4Comments.AssemblyInfoInputs.cache
+C:\projects\p4Comments\obj\Debug\net8.0\p4Comments.AssemblyInfo.cs
+C:\projects\p4Comments\obj\Debug\net8.0\p4Comments.csproj.CoreCompileInputs.cache
+C:\projects\p4Comments\obj\Debug\net8.0\p4Comments.sourcelink.json
+C:\projects\p4Comments\obj\Debug\net8.0\p4Comments.dll
+C:\projects\p4Comments\obj\Debug\net8.0\refint\p4Comments.dll
+C:\projects\p4Comments\obj\Debug\net8.0\p4Comments.pdb
+C:\projects\p4Comments\obj\Debug\net8.0\p4Comments.genruntimeconfig.cache
+C:\projects\p4Comments\obj\Debug\net8.0\ref\p4Comments.dll
