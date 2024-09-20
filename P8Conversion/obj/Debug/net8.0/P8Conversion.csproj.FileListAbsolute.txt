@@ -1,0 +1,15 @@
+C:\projects\P8Conversion\bin\Debug\net8.0\P8Conversion.exe
+C:\projects\P8Conversion\bin\Debug\net8.0\P8Conversion.deps.json
+C:\projects\P8Conversion\bin\Debug\net8.0\P8Conversion.runtimeconfig.json
+C:\projects\P8Conversion\bin\Debug\net8.0\P8Conversion.dll
+C:\projects\P8Conversion\bin\Debug\net8.0\P8Conversion.pdb
+C:\projects\P8Conversion\obj\Debug\net8.0\P8Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\P8Conversion\obj\Debug\net8.0\P8Conversion.AssemblyInfoInputs.cache
+C:\projects\P8Conversion\obj\Debug\net8.0\P8Conversion.AssemblyInfo.cs
+C:\projects\P8Conversion\obj\Debug\net8.0\P8Conversion.csproj.CoreCompileInputs.cache
+C:\projects\P8Conversion\obj\Debug\net8.0\P8Conversion.sourcelink.json
+C:\projects\P8Conversion\obj\Debug\net8.0\P8Conversion.dll
+C:\projects\P8Conversion\obj\Debug\net8.0\refint\P8Conversion.dll
+C:\projects\P8Conversion\obj\Debug\net8.0\P8Conversion.pdb
+C:\projects\P8Conversion\obj\Debug\net8.0\P8Conversion.genruntimeconfig.cache
+C:\projects\P8Conversion\obj\Debug\net8.0\ref\P8Conversion.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\P8Converion\\P8Converion.csproj",
-      "projectName": "P8Converion",
-      "projectPath": "C:\\projects\\P8Converion\\P8Converion.csproj",
+      "projectUniqueName": "C:\\projects\\P8Conversion\\P8Conversion.csproj",
+      "projectName": "P8Conversion",
+      "projectPath": "C:\\projects\\P8Conversion\\P8Conversion.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\P8Converion\\obj\\",
+      "outputPath": "C:\\projects\\P8Conversion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
