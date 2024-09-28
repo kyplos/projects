@@ -1,0 +1,15 @@
+C:\projects\P10Boolean\bin\Debug\net8.0\P10Boolean.exe
+C:\projects\P10Boolean\bin\Debug\net8.0\P10Boolean.deps.json
+C:\projects\P10Boolean\bin\Debug\net8.0\P10Boolean.runtimeconfig.json
+C:\projects\P10Boolean\bin\Debug\net8.0\P10Boolean.dll
+C:\projects\P10Boolean\bin\Debug\net8.0\P10Boolean.pdb
+C:\projects\P10Boolean\obj\Debug\net8.0\P10Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\P10Boolean\obj\Debug\net8.0\P10Boolean.AssemblyInfoInputs.cache
+C:\projects\P10Boolean\obj\Debug\net8.0\P10Boolean.AssemblyInfo.cs
+C:\projects\P10Boolean\obj\Debug\net8.0\P10Boolean.csproj.CoreCompileInputs.cache
+C:\projects\P10Boolean\obj\Debug\net8.0\P10Boolean.sourcelink.json
+C:\projects\P10Boolean\obj\Debug\net8.0\P10Boolean.dll
+C:\projects\P10Boolean\obj\Debug\net8.0\refint\P10Boolean.dll
+C:\projects\P10Boolean\obj\Debug\net8.0\P10Boolean.pdb
+C:\projects\P10Boolean\obj\Debug\net8.0\P10Boolean.genruntimeconfig.cache
+C:\projects\P10Boolean\obj\Debug\net8.0\ref\P10Boolean.dll
