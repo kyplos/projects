@@ -1,0 +1,15 @@
+C:\projects\P11iFElse\bin\Debug\net8.0\P11iFElse.exe
+C:\projects\P11iFElse\bin\Debug\net8.0\P11iFElse.deps.json
+C:\projects\P11iFElse\bin\Debug\net8.0\P11iFElse.runtimeconfig.json
+C:\projects\P11iFElse\bin\Debug\net8.0\P11iFElse.dll
+C:\projects\P11iFElse\bin\Debug\net8.0\P11iFElse.pdb
+C:\projects\P11iFElse\obj\Debug\net8.0\P11iFElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\P11iFElse\obj\Debug\net8.0\P11iFElse.AssemblyInfoInputs.cache
+C:\projects\P11iFElse\obj\Debug\net8.0\P11iFElse.AssemblyInfo.cs
+C:\projects\P11iFElse\obj\Debug\net8.0\P11iFElse.csproj.CoreCompileInputs.cache
+C:\projects\P11iFElse\obj\Debug\net8.0\P11iFElse.sourcelink.json
+C:\projects\P11iFElse\obj\Debug\net8.0\P11iFElse.dll
+C:\projects\P11iFElse\obj\Debug\net8.0\refint\P11iFElse.dll
+C:\projects\P11iFElse\obj\Debug\net8.0\P11iFElse.pdb
+C:\projects\P11iFElse\obj\Debug\net8.0\P11iFElse.genruntimeconfig.cache
+C:\projects\P11iFElse\obj\Debug\net8.0\ref\P11iFElse.dll
