@@ -1,0 +1,15 @@
+C:\projects\P13GoTo\obj\Debug\net8.0\P13GoTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\P13GoTo\obj\Debug\net8.0\P13GoTo.AssemblyInfoInputs.cache
+C:\projects\P13GoTo\obj\Debug\net8.0\P13GoTo.AssemblyInfo.cs
+C:\projects\P13GoTo\obj\Debug\net8.0\P13GoTo.csproj.CoreCompileInputs.cache
+C:\projects\P13GoTo\obj\Debug\net8.0\P13GoTo.sourcelink.json
+C:\projects\P13GoTo\bin\Debug\net8.0\P13GoTo.exe
+C:\projects\P13GoTo\bin\Debug\net8.0\P13GoTo.deps.json
+C:\projects\P13GoTo\bin\Debug\net8.0\P13GoTo.runtimeconfig.json
+C:\projects\P13GoTo\bin\Debug\net8.0\P13GoTo.dll
+C:\projects\P13GoTo\bin\Debug\net8.0\P13GoTo.pdb
+C:\projects\P13GoTo\obj\Debug\net8.0\P13GoTo.dll
+C:\projects\P13GoTo\obj\Debug\net8.0\refint\P13GoTo.dll
+C:\projects\P13GoTo\obj\Debug\net8.0\P13GoTo.pdb
+C:\projects\P13GoTo\obj\Debug\net8.0\P13GoTo.genruntimeconfig.cache
+C:\projects\P13GoTo\obj\Debug\net8.0\ref\P13GoTo.dll
