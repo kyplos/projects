@@ -1,0 +1,15 @@
+C:\projects\P12Random\bin\Debug\net8.0\P12Random.exe
+C:\projects\P12Random\bin\Debug\net8.0\P12Random.deps.json
+C:\projects\P12Random\bin\Debug\net8.0\P12Random.runtimeconfig.json
+C:\projects\P12Random\bin\Debug\net8.0\P12Random.dll
+C:\projects\P12Random\bin\Debug\net8.0\P12Random.pdb
+C:\projects\P12Random\obj\Debug\net8.0\P12Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\P12Random\obj\Debug\net8.0\P12Random.AssemblyInfoInputs.cache
+C:\projects\P12Random\obj\Debug\net8.0\P12Random.AssemblyInfo.cs
+C:\projects\P12Random\obj\Debug\net8.0\P12Random.csproj.CoreCompileInputs.cache
+C:\projects\P12Random\obj\Debug\net8.0\P12Random.sourcelink.json
+C:\projects\P12Random\obj\Debug\net8.0\P12Random.dll
+C:\projects\P12Random\obj\Debug\net8.0\refint\P12Random.dll
+C:\projects\P12Random\obj\Debug\net8.0\P12Random.pdb
+C:\projects\P12Random\obj\Debug\net8.0\P12Random.genruntimeconfig.cache
+C:\projects\P12Random\obj\Debug\net8.0\ref\P12Random.dll
